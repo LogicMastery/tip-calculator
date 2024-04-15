@@ -1,0 +1,26 @@
+*{
+    background-color: gainsboro;
+}
+.form-control {
+width: 40%;
+padding: 15px;
+border: solid #676767;
+border-radius: 10px;
+background-color: #ffff;
+}
+
+.btn-btn-primary {
+    width: 40%;
+    padding: 18px;
+    border-radius: 15px;
+    font-size: 17px;
+    color: #ffff;
+    background-color: #4382ff;
+    border: solid #000;
+}
+
+.col-sm-3-col-form-label {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
