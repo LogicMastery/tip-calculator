@@ -2,7 +2,7 @@
     background-color: gainsboro;
 }
 .form-control {
-width: 40%;
+width: 90%;
 padding: 15px;
 border: solid #676767;
 border-radius: 10px;
@@ -10,7 +10,7 @@ background-color: #ffff;
 }
 
 .btn-btn-primary {
-    width: 40%;
+    width: 95%;
     padding: 18px;
     border-radius: 15px;
     font-size: 17px;
@@ -31,4 +31,24 @@ background-color: #ffff;
 .socials {
     font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: #000;
 }
+
+
+.container-fluid-mt-5 {
+    max-width: 800px;
+    margin: 100px auto;
+    padding: 20px;
+}
+
+footer {
+    max-width: 800px;
+    margin: 100px auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
