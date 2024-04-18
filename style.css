@@ -51,3 +51,18 @@ footer {
 h1 {
     text-align: center;
 }
+
+.youtube {
+    border-left: 6px solid black;
+    height: 500px;
+}
+
+.twitter {
+    border-left: 6px solid black;
+    height: 500px;
+}
+
+.instagram {
+    border-left: 6px solid black;
+    height: 500px;
+}
